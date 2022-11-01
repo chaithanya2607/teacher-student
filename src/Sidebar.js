@@ -5,7 +5,7 @@ export default function Sidebar() {
   return (
     <div  className="sidebar">
       <div
-        className="offcanvas offcanvas-start bg-info text-white sidebar-nav"
+        className="offcanvas offcanvas-start  text-white sidebar-nav"
         tabIndex="-1"
         id="offcanvasExample"
         aria-labelledby="offcanvasExampleLabel"

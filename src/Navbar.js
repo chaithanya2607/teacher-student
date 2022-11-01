@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <div>
       <div>
-        <nav className="navbar navbar-expand-lg navbar-dark bg-secondary topbar mb-4 static-top shadow">
+        <nav className="navbar navbar-expand-lg navbar-dark  topbar mb-4 static-top shadow">
           <div className="container-fluid">
             <a className="navbar-brand fw-bold fs-3 ms-5" href="#">
               Welcome to Teacher Student Management 
@@ -21,10 +21,10 @@ function Navbar() {
             >
               <span className="navbar-toggler-icon"></span>
             </button>
-            <Link className="btn btn-lg btn-outline-light bg-success" to="/student/add">
+            <Link className="btn btn-lg btn-outline-light " to="/student/add">
               Add Student
             </Link>
-            <Link className="btn btn-lg btn-outline-light bg-success" to="/teacher/add">
+            <Link className="btn btn-lg btn-outline-light " to="/teacher/add">
               Add Teacher
             </Link>
           </div>

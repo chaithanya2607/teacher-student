@@ -16,7 +16,7 @@ function Home() {
 
       <img
         className="mt-2 image"
-        src="https://cdn.dribbble.com/users/997637/screenshots/6878028/standards-hp-teacher-animation-v1.gif"
+        src="https://www.scholastic.com/content/dam/scholastic/educators/articles/essential-resources-first-year-teachers_ART_16-9.jpg.corpimagerendition.xxl.1400.788.png"
         alt=""
       />
     </div>
